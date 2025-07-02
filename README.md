@@ -2,7 +2,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alt-gusta&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alt-gusta&layout=compact&theme=transparent)
-## Skisl
+## Skils
 ### Linguagens de Programação
 ![](https://skillicons.dev/icons?i=c,java,js,ts,py)
 ### Tecnologias Frontend
