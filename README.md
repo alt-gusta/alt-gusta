@@ -1,7 +1,9 @@
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
 ## Olá! Eu sou o Gustavo William
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alt-gusta&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alt-gusta&layout=compact&theme=transparent)
 ## Skils
 ### Linguagens de Programação
 ![](https://skillicons.dev/icons?i=c,java,js,ts,py)
@@ -16,3 +18,11 @@
   <a href="mailto:gustavowilliamgs1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div> -->
+
+## Meu Gráfico de Contribuições
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alt-gusta/alt-gusta/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alt-gusta/alt-gusta/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/alt-gusta/alt-gusta/output/pacman-contribution-graph.svg">
+</picture>
