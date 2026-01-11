@@ -6,9 +6,11 @@
 
 ## Skils
 ### Linguagens de Programação
-![](https://skillicons.dev/icons?i=c,java,js,ts,py)
+![](https://skillicons.dev/icons?i=c,java,js,ts,py,php)
 ### Tecnologias Frontend
 ![](https://skillicons.dev/icons?i=html,css,bootstrap,react,chakraui)
+### Outras Tecnologias
+![](https://skillicons.dev/icons?i=wordpress,mysql)
 
 <!-- <div>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
