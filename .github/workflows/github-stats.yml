@@ -1,0 +1,35 @@
+name: Generate GitHub Stats Card
+
+on:
+  schedule:
+    - cron: "0 3 * * *" # 1x por dia
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate GitHub Stats SVG
+        uses: lowlighter/metrics@latest
+        with:
+          filename: github-stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: ${{ github.repository_owner }}
+          template: classic
+          base: header, activity, community, repositories
+          config_timezone: America/Sao_Paulo
+
+      - name: Commit and push SVG
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add github-stats.svg
+          git commit -m "Atualizar GitHub stats" || echo "Sem mudanças"
+          git push
