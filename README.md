@@ -4,6 +4,10 @@
 
 ## Olá! Eu sou o Gustavo William
 
+![Gustavo William's GitHub stats](https://github-readme-stats.vercel.app/api?username=alt-gusta&show_icons=true&theme=dracula&card_width=500)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alt-gusta&layout=compact&theme=dracula&card_width=500)
+<hr>
+
 ## Skils
 ### Linguagens de Programação
 ![](https://skillicons.dev/icons?i=c,java,js,ts,py,php)
