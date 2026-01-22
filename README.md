@@ -12,7 +12,7 @@
 ### Linguagens de Programação
 ![](https://skillicons.dev/icons?i=c,java,js,ts,py,php)
 ### Tecnologias Frontend
-![](https://skillicons.dev/icons?i=html,css,bootstrap,react,chakraui)
+![](https://skillicons.dev/icons?i=html,css,bootstrap,angular,chakraui)
 ### Outras Tecnologias
 ![](https://skillicons.dev/icons?i=wordpress,mysql)
 
