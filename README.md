@@ -24,10 +24,10 @@ Atualmente estudo de forma autodidata e estou aprofundando meus conhecimentos em
 ## 🚀 Tecnologias
 
 <div align="center">
-  <h3>💻 Linguagens</h3>
-  <img src="https://skillicons.dev/icons?i=java,js,python,c,html,css" />
-  <h3>⚙️ Atualmente estudando</h3>
-  <img src="https://skillicons.dev/icons?i=angular,spring" />
+
+| 💻 Linguagens | ⚙️ Atualmente estudando |
+|---------------|------------------------|
+| <p align="center"><img src="https://skillicons.dev/icons?i=java,js,python,c,html,css" /></p> | <p align="center"><img src="https://skillicons.dev/icons?i=angular,spring" /></p> |
 </div>
 
 ---
