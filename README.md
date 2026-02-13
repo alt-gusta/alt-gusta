@@ -13,7 +13,7 @@
 
 ## 👨🏽‍💻 Sobre mim
 
-Sou **Técnico em Redes de Computadores formado pelo CEFET-MG**, com uma base sólida tanto em redes quanto em desenvolvimento.
+Sou **Técnico em Redes de Computadores formado pelo CEFET-MG**, com conhecimento tanto em redes quanto em desenvolvimento.
 
 Meu objetivo é me tornar um **Desenvolvedor Full Stack**, juntando meu conhecimento de redes e infraestrutura com boas práticas de desenvolvimento.
 
@@ -25,7 +25,7 @@ Atualmente estudo de forma autodidata e estou aprofundando meus conhecimentos em
 
 <div align="center">
 
-| 💻 Linguagens | ⚙️ Atualmente estudando |
+| 💻 Linguagens | ⚙️ Estudando |
 |---------------|------------------------|
 | <p align="center"><img src="https://skillicons.dev/icons?i=java,js,python,c,html,css" /></p> | <p align="center"><img src="https://skillicons.dev/icons?i=angular,spring" /></p> |
 </div>
