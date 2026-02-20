@@ -31,7 +31,7 @@ Atualmente estudo de forma autodidata e estou aprofundando meus conhecimentos em
 </div>
 
 ---
-
+<!--
 ## 📊 GitHub Activity
 
 <div align="center">
@@ -39,6 +39,7 @@ Atualmente estudo de forma autodidata e estou aprofundando meus conhecimentos em
 </div>
 
 ---
+-->
 
 ## 👾 Gráfico de Contribuições
 
